@@ -8,10 +8,9 @@ Zip file (download this one file and extract onto your PC - has all the files us
 
 * https://github.com/justinkelly/vala_2021_techcamp_powerbi/archive/refs/tags/v0.2.zip
 
-Google Doc
+Workshop notes
 
-* https://docs.google.com/document/d/1dm9svZVBQHFKcHEomfFCYZxu2oxx5gyaMWoMbCyfgAg/edit?usp=sharing
-* http://bit.ly/vala21_powerbi_doc
+* https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/
 
 Presentation
 
