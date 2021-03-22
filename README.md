@@ -1,12 +1,12 @@
 # VALA 2021 TechCamp - PowerBI
 
+Zip file (download this one file and unzip it onto your PC - has all the files used in the VALA PowerBI Workshop)
+
+* https://github.com/justinkelly/vala_2021_techcamp_powerbi/archive/refs/tags/v0.2.zip
+
 Short URL to this page
 
 * http://bit.ly/vala21_powerbi
-
-Zip file (download this one file and extract onto your PC - has all the files used in the VALA PowerBI Workshop)
-
-* https://github.com/justinkelly/vala_2021_techcamp_powerbi/archive/refs/tags/v0.2.zip
 
 Workshop notes
 
