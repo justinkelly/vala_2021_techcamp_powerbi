@@ -2,7 +2,7 @@
 
 Zip file (download this one file and unzip it onto your PC - has all the files used in the VALA PowerBI Workshop)
 
-* https://github.com/justinkelly/vala_2021_techcamp_powerbi/archive/refs/tags/v0.2.zip
+* https://github.com/justinkelly/vala_2021_techcamp_powerbi/archive/refs/tags/v0.3.zip
 
 Short URL to this page
 
