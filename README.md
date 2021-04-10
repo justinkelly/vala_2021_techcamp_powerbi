@@ -10,7 +10,7 @@ Short URL to this page
 
 Workshop notes
 
-* https://justin.kelly.org.au/vala21-techcamp-powerbi-workshop/
+* https://justin.kelly.org.au/introduction-to-powerbi-for-librarians/
 
 Presentation
 
