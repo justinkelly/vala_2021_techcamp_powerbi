@@ -16,3 +16,13 @@ Presentation
 
 * https://docs.google.com/presentation/d/1xuzN9Y5mIuyJHhIb0eRZ7SD4qvVUDYKq0zrezU--xcc/edit?usp=sharing
 * http://bit.ly/vala21_powerbi_pres
+
+Alternate copy of files (for those who can't use zip or github)
+
+* https://vala2021.s3-ap-southeast-2.amazonaws.com/dewey.csv
+* https://vala2021.s3-ap-southeast-2.amazonaws.com/libraries.csv
+* https://vala2021.s3-ap-southeast-2.amazonaws.com/loans_2020.xlsx
+* https://vala2021.s3-ap-southeast-2.amazonaws.com/loans_2021.xlsx
+* https://vala2021.s3-ap-southeast-2.amazonaws.com/vala21-2-section1.pbix
+* https://vala2021.s3-ap-southeast-2.amazonaws.com/vala21-2-section2.pbix
+* https://vala2021.s3-ap-southeast-2.amazonaws.com/vala21-2-section3.pbix
